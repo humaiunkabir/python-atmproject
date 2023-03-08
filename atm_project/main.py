@@ -70,5 +70,5 @@ def main():
     else:
         print("Invalid operation")
 
-
+print("Changing for check git course.")
 main()
