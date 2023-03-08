@@ -1,0 +1,1 @@
+{"first_name": "Jamal", "last_name": "Uddin", "email": "jamal@gmail.com", "bank_account": "145001001", "card_number": "145001999001", "current_balance": 41550}
